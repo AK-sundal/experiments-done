@@ -48,6 +48,6 @@ This repository contains implementations of several state-of-the-art graph repre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/graph-representation-learning.git
-   cd graph-representation-learning
+   git clone https://github.com/AK-sundal/experiments-done.git
+   cd experiments-done
 
