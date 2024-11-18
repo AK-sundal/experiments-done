@@ -42,6 +42,15 @@ This repository contains my implementations of several state-of-the-art graph re
 - **Paper**: [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)
 - **Key Features**: Simple, scalable, unsupervised.
 
+### 7. [GraphSAGE](./graphsage)
+- **Description**: GraphSAGE (Graph Sample and Aggregation) is an inductive graph embedding method that generates node embeddings by sampling and aggregating features from a node’s neighbors.
+- **Paper**: [GraphSAGE: Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
+- **Key Features**:
+  - Inductive learning: Can generate embeddings for unseen nodes.
+  - Scalable: Samples neighbors for efficient learning.
+  - Flexible aggregation: Supports multiple aggregation functions (e.g., mean, LSTM, pooling).
+
+
 ---
 
 ## 🛠 Installation
