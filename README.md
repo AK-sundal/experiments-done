@@ -52,7 +52,9 @@ This repository contains my implementations of several state-of-the-art graph re
 
 
 ---
-
+### some paper implemetation are not completed
+#### with some not feasable due to hardware constraints and no idea how to execute
+---
 ## 🛠 Installation
 
 1. Clone the repository:
