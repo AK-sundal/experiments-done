@@ -3,7 +3,7 @@
  
  # Graph Representation Learning Algorithms
 
-This repository contains implementations of several state-of-the-art graph representation learning algorithms. These methods are designed for tasks like node classification, link prediction, and graph classification, and they demonstrate a variety of techniques to learn meaningful representations of graph-structured data.
+This repository contains my implementations of several state-of-the-art graph representation learning algorithms. These methods are designed for tasks like node classification, link prediction, and graph classification, and they demonstrate a variety of techniques to learn meaningful representations of graph-structured data.
 
 ---
 
@@ -48,6 +48,6 @@ This repository contains implementations of several state-of-the-art graph repre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/graph-representation-learning.git
-   cd graph-representation-learning
+   git clone https://github.com/AK-sundal/experiments-done.git
+   cd experiments-done
 
