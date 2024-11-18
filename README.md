@@ -53,7 +53,7 @@ This repository contains my implementations of several state-of-the-art graph re
 
 ---
 ### some paper implemetation are not completed
-##### with some not feasable due to hardware constraints and  some i am have less understanding to execute
+##### with some not feasable due to hardware constraints and  some i  have less understanding to execute
 ##### with some i could not find proper datset as mention in paer to able to download 
 ---
 ## 🛠 Installation
