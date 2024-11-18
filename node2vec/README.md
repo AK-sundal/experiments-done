@@ -1,5 +1,5 @@
 # experiments-done
- Practice of implementation of node2-vec paper
+ Practice of implementation of node2-vec paper:
  this similar to example availabe in pyg i took from there for understanding 
  my implemention is not done yet
  # node2vec: Scalable Feature Learning for Networks
