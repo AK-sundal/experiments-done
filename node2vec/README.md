@@ -1,5 +1,7 @@
 # experiments-done
  Practice of implementation of node2-vec paper
+ this similar to example availabe in pyg i took from there for understanding 
+ my implemention is not done yet
  # node2vec: Scalable Feature Learning for Networks
 
 This repository provides an implementation of **node2vec**, a framework for learning low-dimensional representations for nodes in a graph, as introduced in the paper:  
