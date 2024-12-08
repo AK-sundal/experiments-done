@@ -32,17 +32,7 @@ This repository contains my implementations of several state-of-the-art graph re
 - **Paper**: [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 - **Key Features**: Efficient graph convolution operations.
 
-### 5. [node2vec](./node2vec)
-- **Description**: Extends DeepWalk with biased random walks, allowing for flexible exploration of graph neighborhoods to capture diverse connectivity patterns.
-- **Paper**: [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653)
-- **Key Features**: Biased random walks, flexible neighborhood definitions.
-
-### 6. [DeepWalk](./deepwalk)
-- **Description**: Learns latent representations of nodes by treating random walks on the graph as sentences and applying techniques from natural language processing.
-- **Paper**: [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)
-- **Key Features**: Simple, scalable, unsupervised.
-
-### 7. [GraphSAGE](./graphsage)
+### 5. [GraphSAGE](./graphsage)
 - **Description**: GraphSAGE (Graph Sample and Aggregation) is an inductive graph embedding method that generates node embeddings by sampling and aggregating features from a node’s neighbors.
 - **Paper**: [GraphSAGE: Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
 - **Key Features**:
